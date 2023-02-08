@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "typeinfo": "cpp",
+        "spi.h": "c",
+        "esp32-hal-spi.h": "c",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    }
+}
